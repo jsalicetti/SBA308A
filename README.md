@@ -1,0 +1,7 @@
+- Linked JavaScript to my HTML file
+- Created a div container for my header
+- created a div container for my images once available to be pulled from the API
+- Accessed the API key and document information
+- Created a drop down bar for breed names
+- created a function to fetch breed names in the drop down bar
+- Created a function to retrieve breed images once selected in the drop down bar
