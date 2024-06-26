@@ -1,8 +1,8 @@
 
 
 const dropDown = document.getElementById("breed-search");
-const imageContainer = document.getElementsByClassName('imageContainer');
-console.log(imageContainer)
+const imageContainer = document.querySelector("#img-Container");
+console.dir(imageContainer)
 
 
 
